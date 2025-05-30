@@ -1,0 +1,87 @@
+/*
+  Localizable.strings
+  VABGames
+
+  Created by user245948 on 1/20/25.
+  
+*/
+"notification_title" = "Confira este jogo!";
+"notification_body" = "Nós achamos que você pode gostar:";
+"notification_title2" = "Recomendação Diária de Jogo";
+"notification_body2" = "Confira o jogo aleatório de hoje!";
+
+"choose_style" = "Escolha o Estilo";
+"customize" = "Personalize sua interface";
+"theme" = "Tema";
+"language" = "Idioma";
+"choose_language" = "Escolha o Idioma";
+"day_or_night" = "Pop ou sutil, Dia ou noite.\nPersonalize sua interface";
+"pt" = "Português";
+"en" = "Inglês";
+
+// New translations
+"publishers" = "Estúdios";
+"games" = "jogos";
+"settings" = "Ajustes";
+"blacklist" = "Lista Negra";
+"page_size" = "Tamanho da Página";
+"games_per_page" = "Jogos por página: %d";
+"notifications" = "Notificações";
+"daily_notification_time" = "Horário da notificação diária";
+"test_notification" = "Testar Shake";
+"cache" = "Cache";
+"cache_duration" = "Duração do Cache";
+"clear_cache" = "Limpar Cache";
+"days" = "dias";
+"search" = "Buscar";
+"details" = "Detalhes";
+"share" = "Compartilhar";
+"add_to_blacklist" = "Adicionar à Lista Negra";
+"remove_from_blacklist" = "Remover da Lista Negra";
+"no_description" = "Sem descrição disponível";
+"loading" = "Carregando...";
+"error_loading" = "Erro ao carregar dados";
+"try_again" = "Tentar Novamente";
+"no_results" = "Nenhum resultado encontrado";
+"unknown" = "Desconhecido";
+"added_on" = "Adicionado em";
+"no_publishers_blacklist" = "Nenhuma publicadora na lista negra";
+"change" = "Alterar";
+"shake_for_random" = "Shake";
+"shake_detected" = "Movimento detectado!";
+"load_more" = "Carregar mais...";
+"studio_of_the_day" = "Estúdio do Dia";
+"view_details" = "Ver Detalhes";
+"home" = "Início";
+"random" = "Aleatório";
+"english" = "Inglês";
+"portuguese" = "Português";
+"shake_device" = "Agite o dispositivo";
+
+// New strings for search in portuguese
+"home" = "Início";
+"random" = "Aleatório";
+"settings" = "Configurações";
+"publishers" = "Estúdios";
+"games" = "jogos";
+"language" = "Idioma";
+"choose_language" = "Escolher Idioma";
+"page_size" = "Tamanho da Página";
+"games_per_page" = "%d jogos por página";
+"cache" = "Cache";
+"cache_duration" = "%d dias de cache";
+"clear_cache" = "Limpar Cache";
+"notifications" = "Notificações";
+"daily_notification_time" = "Horário da Notificação Diária";
+"change" = "Alterar";
+"loading" = "Carregando...";
+"load_more" = "Carregar Mais";
+"no_results" = "Nenhum resultado encontrado";
+"no_search_results" = "Nenhum estúdio encontrado para sua busca";
+"search_publishers" = "Buscar estúdios...";
+"retry" = "Tentar Novamente";
+"try_again" = "Tentar Novamente";
+"studio_of_the_day" = "Estúdio do Dia";
+"view_details" = "Ver Detalhes";
+"failed_to_load_studio" = "Falha ao carregar estúdio do dia";
+"no_studio_available" = "Nenhum estúdio disponível";

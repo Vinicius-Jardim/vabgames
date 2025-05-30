@@ -1,0 +1,66 @@
+/*
+  Localizable.strings
+  VABGames
+
+  Created by user245948 on 1/20/25.
+  
+*/
+"notification_title" = "Check out this game!";
+"notification_body" = "We think you might like:";
+"notification_title2" = "Daily Game Recommendation";
+"notification_body2" = "Check out today's random game!";
+
+"choose_style" = "Choose Style";
+"customize" = "Customize your interface";
+"theme" = "Theme";
+"language" = "Language";
+"choose_language" = "Choose Language";
+"day_or_night" = "Pop or subtle, Day or night.\nCustomize your interface";
+"pt" = "Portuguese";
+"en" = "English";
+
+// New translations
+"publishers" = "Publishers";
+"games" = "games";
+"settings" = "Settings";
+"blacklist" = "Blacklist";
+"page_size" = "Page Size";
+"games_per_page" = "%d games per page";
+"notifications" = "Notifications";
+"daily_notification_time" = "Daily Notification Time";
+"test_notification" = "Test Shake";
+"cache" = "Cache";
+"cache_duration" = "%d days of cache";
+"clear_cache" = "Clear Cache";
+"days" = "days";
+"search" = "Search";
+"details" = "Details";
+"share" = "Share";
+"add_to_blacklist" = "Add to Blacklist";
+"remove_from_blacklist" = "Remove from Blacklist";
+"no_description" = "No description available";
+"loading" = "Loading...";
+"error_loading" = "Error loading data";
+"try_again" = "Try Again";
+"no_results" = "No results found";
+"no_search_results" = "No publishers found matching your search";
+"search_publishers" = "Search publishers...";
+"unknown" = "Unknown";
+"added_on" = "Added on";
+"no_publishers_blacklist" = "No publishers in blacklist";
+"change" = "Change";
+"shake_for_random" = "Shake";
+"shake_detected" = "Shake detected!";
+"load_more" = "Load More";
+"studio_of_the_day" = "Studio of the Day";
+"view_details" = "View Details";
+"Estúdio do Dia" = "Studio of the Day";
+"Ver Detalhes" = "View Details";
+"home" = "Home";
+"random" = "Random";
+"english" = "English";
+"portuguese" = "Portuguese";
+"shake_device" = "Shake device";
+"failed_to_load_studio" = "Failed to load studio of the day";
+"retry" = "Retry";
+"no_studio_available" = "No studio available";
